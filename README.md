@@ -15,3 +15,4 @@ Though process:
 4. Find the day (or days) with the highest or relatively high average % price difference. These are the days you could sell your gold to likely profit from it according to the calculated average % price difference of that day group.
 
 ### Read the full article to get the detailed explanation on the analysis steps and codes from the following link: 
+https://p-kane.medium.com/df40b888fdf8
